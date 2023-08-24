@@ -1,0 +1,61 @@
+body{
+    /* padding: 0;
+    margin: 0; */
+    background-color: lightpink;
+}
+.container{
+    width: 80%;
+    margin-inline: auto;
+    /* background-color: black; */
+    /* position: relative; */
+}
+
+.flower{
+    width: 80px;
+    /* position: absolute; */
+    position: relative;
+    top: 130px;
+    left: 150px; */
+}
+
+.text-box{
+    margin-top: 40px;
+    width: 90%;
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+
+.kitty{
+    width: 250px;
+    float: right;
+    margin: 20px;
+}
+.bottom-kitty{
+    margin: 20px;
+    width: 140px;
+    float: left;
+    overflow: hidden;
+}
+
+.header-text{
+    background-color: aquamarine;
+}
+
+.text-wrapper{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    overflow:auto;
+    float: right;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.bottom-paragraph{
+    clear: right;
+}
+.space{
+    height: 100vh;
+}
